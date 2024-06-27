@@ -1,0 +1,12 @@
+name: 'Gert Timmerman'
+super: true
+id: 15f69c41-fd3a-4eab-b9e5-babe5451050a
+password_hash: $2y$12$InlPMZvY16TpdWcO6kTpAeywWg/xy9mdeyWAa7DEbvzJbByUs2SOa
+preferences:
+  collections:
+    authors:
+      columns:
+        - title
+        - books
+        - slug
+        - status
